@@ -27,4 +27,8 @@
 ![RMSE](images/VIO_RMSE.png "RMSE")  
 
 * 轨迹  
-![traj](images/image_0.png "image0")
+![traj](images/image_01.png "image01")  
+![traj](images/image_02.png "image02")  
+![traj](images/image_03.png "image03")  
+![traj](images/image_04.png "image04")  
+![traj](images/image_05.png "image05")  
