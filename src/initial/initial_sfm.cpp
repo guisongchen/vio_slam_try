@@ -364,5 +364,4 @@ void GlobalSFM::triangulatePoint(Eigen::Matrix<double, 3, 4> &Pose0, Eigen::Matr
     p3d(2) = triangulated_point(2) / triangulated_point(3);
 }
 
-
 }
